@@ -1,2 +1,4 @@
 # Venv
 venv
+db.sqlite3
+geckodriver.log
