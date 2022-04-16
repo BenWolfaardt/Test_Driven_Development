@@ -1,4 +1,12 @@
 # Venv
 venv
+
+# DBs
 db.sqlite3
+
+# Logs
 geckodriver.log
+
+# Pythn files 
+__pycache__
+*pyc
