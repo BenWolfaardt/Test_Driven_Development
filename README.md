@@ -24,8 +24,8 @@ Obey the testing goat: Using Django, Selenium and JavaScript by Harry J.W. Perci
 
 ### Venv
 
-* `pip install "django<1.12" "selenium<4"`
+* `pip install "django<1.12" "selenium<4", "python-dotenv"`
 
 ### Django
 
-* Project setup - `django-admin.py startproject superlists.`
+* Project setup - `django-admin.py startproject superlists .`
