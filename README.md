@@ -9,10 +9,10 @@ Obey the testing goat: Using Django, Selenium and JavaScript by Harry J.W. Perci
 
 ## Reminders
 
-* `source venv/bin/activate`
+* `source venv/bin/activate` - activate venv environment
 * `python manage.py runserver` - in a seperate terminal
-* `python functional_tests.py`
-
+* `python manage.py test` - run unit tests (UT)
+* `python functional_tests.py` - run functional tests (FT)
 ## Setup
 
 > Please note that this project makes use of `venv` which is included in `.gitignore`
