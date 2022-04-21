@@ -13,6 +13,7 @@ Obey the testing goat: Using Django, Selenium and JavaScript by Harry J.W. Perci
 * `python manage.py runserver` - in a seperate terminal
 * `python manage.py test` - run unit tests (UT)
 * `python functional_tests.py` - run functional tests (FT)
+  * `python manage.py test functional_tests` - run functional tests (FT)
 
 ## Setup
 
