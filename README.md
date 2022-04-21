@@ -32,3 +32,4 @@ Obey the testing goat: Using Django, Selenium and JavaScript by Harry J.W. Perci
 * Project setup - `django-admin.py startproject superlists .`
 * Start/create an app - `python manage.py startapp <app_name>`
 * Create "migrations" (the thing that builds the database) - `python manage.py makemigrations`
+* Create "migrations" for production (the thing that builds the database) - `python manage.py migrate`
