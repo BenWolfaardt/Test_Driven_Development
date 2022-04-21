@@ -12,8 +12,9 @@ Obey the testing goat: Using Django, Selenium and JavaScript by Harry J.W. Perci
 * `source venv/bin/activate` - activate venv environment
 * `python manage.py runserver` - in a seperate terminal
 * `python manage.py test` - run unit tests (UT)
+  * `python manage.py test lists` - run unit tests (UT) after having moved the functional_tests into their own folder
 * `python functional_tests.py` - run functional tests (FT)
-  * `python manage.py test functional_tests` - run functional tests (FT)
+  * `python manage.py test functional_tests` - run functional tests (FT) after having moved the functional_tests into their own folder
 
 ## Setup
 
