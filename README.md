@@ -13,6 +13,7 @@ Obey the testing goat: Using Django, Selenium and JavaScript by Harry J.W. Perci
 * `python manage.py runserver` - in a seperate terminal
 * `python manage.py test` - run unit tests (UT)
 * `python functional_tests.py` - run functional tests (FT)
+
 ## Setup
 
 > Please note that this project makes use of `venv` which is included in `.gitignore`
@@ -30,3 +31,4 @@ Obey the testing goat: Using Django, Selenium and JavaScript by Harry J.W. Perci
 
 * Project setup - `django-admin.py startproject superlists .`
 * Start/create an app - `python manage.py startapp <app_name>`
+* Create "migrations" (the thing that builds the database) - `python manage.py makemigrations`
