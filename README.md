@@ -6,6 +6,7 @@ Obey the testing goat: Using Django, Selenium and JavaScript by Harry J.W. Perci
 ## Quick links
 * [Book's site](https://www.obeythetestinggoat.com/)
 * [Book by publisher](https://www.oreilly.com/library/view/test-driven-development-with/9781449365141/pr05.html)
+* [Book's GitHub](https://github.com/hjwp/book-example/tree/master)
 
 ## Reminders
 
